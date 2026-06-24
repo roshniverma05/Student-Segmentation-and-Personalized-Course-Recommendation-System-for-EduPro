@@ -253,7 +253,7 @@ Add your Vercel deployment URL here.
 Example:
 
 ```text
-https://your-project.vercel.app
+https://student-segmentation-and-personaliz.vercel.app/
 ```
 
 ---
